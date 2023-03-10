@@ -1,4 +1,4 @@
-<h1>Projet Java JEE - Manipulation d'un Java Bean<h1>
+Projet Java JEE - Manipulation d'un Java Bean
 Description
 Ce projet Java JEE permet de manipuler un Java Bean de manière standard en gérant la visibilité des beans et en traitant les beans avec des balises avancées pour construire un bean nommé "Etudiant".
 
