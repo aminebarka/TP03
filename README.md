@@ -21,8 +21,4 @@ Accédez à l'application depuis votre navigateur à l'adresse suivante :
 bash
 Copy code
 http://localhost:8080/projet-java-jee-bean-etudiant
-Auteur
-Votre nom
 
-Licence
-Ce projet est sous licence MIT - voir le fichier LICENSE.md pour plus de détails
